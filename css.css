@@ -1,0 +1,56 @@
+
+	.cabecalho {
+	
+	margin: auto;
+	text-align: center;
+	border-style:none;
+	width: 350px;
+	width: 500px;
+	margin-bottom: 15px;
+	
+	}
+	h3 {
+	
+	display: inline;
+	margin: 0;
+
+	}
+
+.red {
+	color: red !important;
+}
+	
+	
+	.enviar {
+		
+		margin: 15px; 
+
+	}
+	
+	span > h2 {
+		color:red;
+	}
+	
+	.paragrafo {
+	display: block;
+	
+}
+
+.esp {
+
+	margin-left: 0 !important;
+}
+
+	h3 > span {
+		
+		text-align: left !important;
+	}
+
+	span > input {
+
+		color: red !important;
+		text-align: center;
+		/*margin-left: 3%;*/
+
+		
+	}
