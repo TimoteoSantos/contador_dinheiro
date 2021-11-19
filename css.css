@@ -1,38 +1,74 @@
-
-	.cabecalho {
+body {
+	background-color: 	#87CEFA !important;
+}
+	.cabecalho , .corpo {
 	
 	margin: auto;
 	text-align: center;
 	border-style:none;
-	width: 350px;
-	width: 500px;
+
+	width: 700px;
 	margin-bottom: 15px;
 	
 	}
-	h3 {
-	
-	display: inline;
-	margin: 0;
-
+	.corpo {
+		margin: auto;
 	}
 
-.red {
-	color: red !important;
-}
-	
-	
-	.enviar {
-		
-		margin: 15px; 
+	.centro {
+		text-align: center;
+	}
 
+.corpo { background-color: #ffffff;
+		height: 900px;
+		border-radius: 10px;
+		 margin-top: 20px;
+		 }
+
+input {
+	color: red !important;
+	height: 40px;
+	width: 300px;
+	text-align: center;
+	size: 12px;
+}
+
+left {
+
+	float: left;
+	
+}
+
+.left {
+
+	float: right;
+	
+}
+.afastar {
+	margin-right: 25% !important;
+	
+}
+.unir {
+	display: inline;
+
+}
+
+.clean{clear:both;}
+
+	
+.Enviar {
+		margin: 15px;
+		width: 450px;
+		margin-left: 125px;
 	}
 	
 	span > h2 {
 		color:red;
 	}
 	
-	.paragrafo {
-	display: block;
+.left {
+	display: inline;
+		margin-bottom: 5px !important;
 	
 }
 
@@ -41,16 +77,32 @@
 	margin-left: 0 !important;
 }
 
-	h3 > span {
+h3 > span {
 		
 		text-align: left !important;
 	}
 
-	span > input {
+span > input {
 
 		color: red !important;
 		text-align: center;
-		/*margin-left: 3%;*/
-
-		
+			size: 18px !important;
 	}
+
+table th, td{
+	border-style: solid !important;
+	text-align: center;
+	color: red;
+	border-color: black;
+	width: 40px !important;
+	font-size: 18px;
+
+}
+
+table {
+	margin: auto;
+}
+
+th {
+	color: green !important;
+}
