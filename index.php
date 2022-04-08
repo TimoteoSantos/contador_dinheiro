@@ -2,6 +2,14 @@
 <html>
 <head>
 	<meta charset="utf-8">
+	  <head>
+    <meta charset="utf-8">
+    <meta name="Description" CONTENT="Author: timoteo santos: site que faz contagem de dinheiro ">
+    <meta name="google-site-verification" content="+nxGUDJ4QpAZ5l9Bsjdi102tLVC21AIh5d1Nl23908vVuFHs34="/>
+    <meta name="google-site-verification" content="cxc7bj5Uxw1JAxXYpUAQJMMOZbmWbBnEW722m0ktTlI" />
+    <title>Example Books - high-quality used books for children</title>
+    <meta name="robots" content="noindex,nofollow">
+  </head>
 	<title>contar dinheiro</title>
 
 <link rel="stylesheet" type="text/css" href="css.css">
